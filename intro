@@ -1,0 +1,21 @@
+
+Name - Shantanu Das
+
+Task: Color Identification in Images
+      i.e.
+      From an particular image I have to identify different colors / detect different colors
+      So, here I have done two approaches
+
+      -> You can detect any color present in the image
+         for that you have to select the image and then you have to click on the color
+         from the image that you want to identify, it will show the NAME of the COLOR on the top of the selected
+         image as well as the RGB values for that particular color
+
+      -> Here I just show all the pixels of the image which have the same color
+         say you want to identify the RED color from the selected Image
+         so it will show only RED pixels in the image
+         for that I use a TRACKBAR by which you can control the HSV minimum and maximum values
+         as you want
+         -> This is very useful when you want to create a MASK for any particular color
+
+Let's move to the DEMO of that ----->
